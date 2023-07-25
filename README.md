@@ -29,9 +29,9 @@ The goal is to play fast rotate against aggressive teams and execute lurking tel
 - [B Long -> Defender Spawn](https://youtu.be/7WgOGz79YEc?t=26)
 
 **Defender TP Lineups**:
+- [A Heaven -> B Halls](https://youtu.be/s7GG6tNRwH0?t=80)
 - [B Hall -> A Backsite](https://youtu.be/s7GG6tNRwH0?t=13)
 - [B Hall -> A Lobby](https://youtu.be/7WgOGz79YEc?t=135)
-- [A Heaven -> B Halls](https://youtu.be/s7GG6tNRwH0?t=80)
 - [Garden -> Attacker Tunnel](https://youtu.be/s7GG6tNRwH0?t=167)
 - [Garden -> Attacker Spawn](https://youtu.be/s7GG6tNRwH0?t=199)
 - [Garden -> Link](https://youtu.be/s7GG6tNRwH0?t=236)
@@ -42,16 +42,17 @@ The goal is to play fast rotate against aggressive teams and execute lurking tel
 
 **Attacker TP Lineups**:
 - [A Lobby -> Defender Spawn](https://youtu.be/ei31mj0Z9lQ?t=19)
-- [C Long -> Defender Spawn](https://youtu.be/ei31mj0Z9lQ?t=54)
-- [Mid Courtyard -> A Tower](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=78s)
 - [A Garden -> A Site](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=105s)
 - [A Long -> A Hell](https://youtu.be/1QjfstEPZLQ)
+- [Mid Courtyard -> A Tower](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=78s)
+- [C Long -> Defender Spawn](https://youtu.be/ei31mj0Z9lQ?t=54)
+
 
 **Defender TP Lineups**:
+- [B Site -> Mid Courtyard](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=210s)
 - [C Garage -> Attacker Side Spawn](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=134s)
 - [C Site -> Defender Side Spawn](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=164s)
 - [C Garage -> Mid Courtyard](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=191s)
-- [B Site -> Mid Courtyard](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=210s)
 - [C Site -> C Cubby](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=224s)
 
 ### #3 Split
@@ -70,10 +71,10 @@ The goal is to play fast rotate against aggressive teams and execute lurking tel
 - [Mid -> Back of B](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=193s)
 
 **Defender TP Lineups**:
-- [B Heaven -> A Screens (to play B Defense and fast rotate if A)](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=237s)
 - [A Screens -> B Site](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=267s)
-- [Rafters -> B Main](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=306s)
 - [Top of A Ramp -> A Main Plant](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=336s)
+- [Rafters -> B Main](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=306s)
+- [B Heaven -> A Screens (to play B Defense and fast rotate if A)](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=237s)
 
 ### #4 Fracture
 
@@ -86,10 +87,10 @@ The goal is to play fast rotate against aggressive teams and execute lurking tel
 - [B Main -> B Bench](https://www.youtube.com/watch?v=b4wCw0prCX4&t=107s)
 
 **Defender TP Lineups**:
-- [B Site -> A Site](https://www.youtube.com/watch?v=b4wCw0prCX4&t=170s)
 - [A Site -> Attack Side Spawn](https://www.youtube.com/watch?v=b4wCw0prCX4&t=196s)
-- [Attack Side Bridge -> B Tree](https://www.youtube.com/watch?v=b4wCw0prCX4&t=219s)
 - [A Site -> B Link](https://www.youtube.com/watch?v=b4wCw0prCX4&t=250s)
+- [Attack Side Bridge -> B Tree](https://www.youtube.com/watch?v=b4wCw0prCX4&t=219s)
+- [B Site -> A Site](https://www.youtube.com/watch?v=b4wCw0prCX4&t=170s)
 
 **(The Not Sure Yet Maps) Lotus/Pearl/Ascent**
 
