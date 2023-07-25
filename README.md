@@ -20,6 +20,8 @@ The goal is to play fast rotate against aggressive teams and execute lurking tel
 
 **Starter Guide**: [YouTube](https://www.youtube.com/watch?v=s7GG6tNRwH0)
 
+**Quick Reference video for the Starter Guide**: [Nolando Youtube](https://youtu.be/-OP2N80hGSE)
+
 **Attacker TP Lineups**:
 - [A Lobby -> A Vent](https://youtu.be/7WgOGz79YEc?t=94)
 - [A Short -> Link](https://youtu.be/7WgOGz79YEc?t=203)
