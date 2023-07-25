@@ -39,7 +39,7 @@ The goal is to play fast rotate against aggressive teams and execute lurking tel
 ### #2 Haven
 
 **Starter Guide**: [YouTube](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=129s)
-
+**Quick Reference video for the Starter Guide**: [Nolando Youtube](https://www.youtube.com/watch?v=q51TadpE650)
 **Attacker TP Lineups**:
 - [A Lobby -> Defender Spawn](https://youtu.be/ei31mj0Z9lQ?t=19)
 - [A Garden -> A Site](https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=105s)
