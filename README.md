@@ -43,7 +43,19 @@ Starter Guide:
 
 Attacker TP Lineups:
 > - A lobby to Defender Spawn: <https://youtu.be/ei31mj0Z9lQ?t=19>
-> - C long to Defender Spawn
+> - C long to Defender Spawn: <https://youtu.be/ei31mj0Z9lQ?t=54>
+> - Mid Courtyard to A Tower: <https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=78s>
+> - A Garden to A Site: <https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=105s>
+> - A Long to A Hell: <https://youtu.be/1QjfstEPZLQ>
+
+Defender TP Lineups:
+Defending
+
+> - C Garage -> Attacker Side Spawn: <https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=134s>
+> - C Site -> Defender Side Spawn: <https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=164s>
+> - C Garage -> Mid Courtyard: <https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=191s>
+> - B Site -> Mid Courtyard: <https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=210s>
+> - C Site -> C Cubby: <https://www.youtube.com/watch?v=ei31mj0Z9lQ&t=224s>
 
 ### #3 Split
 
