@@ -1,3 +1,19 @@
+# Yoru Learning Arc
+
+## Gameplan
+
+**Main goal**: To be able to take as many fights as possible as fast as possible.
+
+### Attack
+
+- **Fast Hits**: Send teleport to locations on the site we want to hit. (e.g., short to A hell on Haven)
+- **Slow Burns**: Plan to send teleports to sites we want to end on, play the middle of the map for picks, lurk in the middle of the map while the team explodes the site after faking. The goal here is to send TP behind the team while they hit the site, lurk mid, and pick off people rotating to the bomb.
+- **Gatecrash Flanking on Hard Site Hits**: Use Gatecrash late into spawn to flank/catch rotators. This could be good in combo with killjoy ultimate (e.g., kj ult short on haven. I send the C long to Defender Spawn Gatecrash or the Mid courtyard to A Tower Gatecrash and catch them as theyre rotating. 
+
+### Defense
+
+The goal is to play fast rotate against aggressive teams and execute lurking teleport plays against teams playing slow. Bait opponents with flash and clone. Having two charges of Gatecrash allows me to play quick rotate twice because of how long they last.
+
 ## Maps
 
 ### #1 Bind
