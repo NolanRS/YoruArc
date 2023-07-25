@@ -1,5 +1,3 @@
-Sure, I'll remove the "YouTube Link" text and make the lineup itself the hyperlink text. Here you go:
-
 ## Maps
 
 ### #1 Bind
@@ -42,9 +40,38 @@ Sure, I'll remove the "YouTube Link" text and make the lineup itself the hyperli
 
 **Starter Guide**: [YouTube](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=316s&pp=ygUVc3BsaXQgeW9ydSBjaGFhcmRld2Fy)
 
+**Attacker TP Lineups**:
+- [A Main -> Heaven Door](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=6s)
+- [A Main -> Outside Screens](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=63s)
+- [A Main -> CT](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=90s)
+- [B Main -> Back of B Site](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=124s)
+- [B Main -> Box under Heaven](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=163s)
+- [B Mid -> Rafters](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=220s)
+
+**Neutral TP Lineups**:
+- [Mid -> Back of B](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=193s)
+
+**Defender TP Lineups**:
+- [B Heaven -> A Screens (to play B Defense and fast rotate if A)](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=237s)
+- [A Screens -> B Site](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=267s)
+- [Rafters -> B Main](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=306s)
+- [Top of A Ramp -> A Main Plant](https://www.youtube.com/watch?v=FpSmRC1SHb4&t=336s)
+
 ### #4 Fracture
 
-**Starter Guide**: [YouTube](https://www.youtube.com/watch?v=b4wCw0prCX4)
+**Starter Guide**: [YouTube](https://youtu.be/b4wCw0prCX4)
+
+**Attacker TP Lineups**:
+- [Attack Side Spawn -> Hell of A Site](https://www.youtube.com/watch?v=b4wCw0prCX4&t=15s)
+- [B Main -> Attacker Side Bridge](https://www.youtube.com/watch?v=b4wCw0prCX4&t=50s)
+- [B Main -> Defender Side Spawn](https://www.youtube.com/watch?v=b4wCw0prCX4&t=79s)
+- [B Main -> B Bench](https://www.youtube.com/watch?v=b4wCw0prCX4&t=107s)
+
+**Defender TP Lineups**:
+- [B Site -> A Site](https://www.youtube.com/watch?v=b4wCw0prCX4&t=170s)
+- [A Site -> Attack Side Spawn](https://www.youtube.com/watch?v=b4wCw0prCX4&t=196s)
+- [Attack Side Bridge -> B Tree](https://www.youtube.com/watch?v=b4wCw0prCX4&t=219s)
+- [A Site -> B Link](https://www.youtube.com/watch?v=b4wCw0prCX4&t=250s)
 
 **(The Not Sure Yet Maps) Lotus/Pearl/Ascent**
 
